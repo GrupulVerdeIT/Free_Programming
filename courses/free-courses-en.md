@@ -131,6 +131,21 @@
 * [Udacity](https://www.udacity.com)
 
 
+### 0 - MOOC
+
+* [Coursera](https://www.coursera.org)
+* [edX](https://www.edx.org)
+* [freeCodeCamp](https://www.freecodecamp.org)
+* [FutureLearn](https://www.futurelearn.com)
+* [MIT OCW](http://ocw.mit.edu)
+* [MOOC.fi](https://www.mooc.fi/en/)
+* [NPTEL](https://onlinecourses.nptel.ac.in)
+* [openHPI](https://open.hpi.de)
+* [openSAP](https://open.sap.com)
+* [Platzi](https://courses.platzi.com)
+* [Udacity](https://www.udacity.com)
+
+
 ### Algorithms & Data Structures
 
 * [Advanced Data Structures](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-851-advanced-data-structures-spring-2012/) - Erik Demaine
